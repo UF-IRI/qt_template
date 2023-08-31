@@ -2,8 +2,7 @@
 
 // add necessary includes here
 
-class proyecto : public QObject
-{
+class proyecto : public QObject {
     Q_OBJECT
 
 public:
@@ -11,34 +10,18 @@ public:
     ~proyecto();
 
 private slots:
-    void initTestCase();
-    void cleanupTestCase();
-    void test_case1();
-
+    void DummyTest();
 };
 
-proyecto::proyecto()
-{
+proyecto::proyecto() {
 
 }
 
-proyecto::~proyecto()
-{
+proyecto::~proyecto() {
 
 }
 
-void proyecto::initTestCase()
-{
-
-}
-
-void proyecto::cleanupTestCase()
-{
-
-}
-
-void proyecto::test_case1()
-{
+proyecto::DummyTest() {
 
 }
 
