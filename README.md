@@ -1,4 +1,4 @@
-# G***NroGrupo***_***Apellido1******Apellido2***_TP***1/2/../Final***
+# G***NroGrupo***_***Apellido1******Apellido2***
   "Breve descripción del trabajo"
 
 ## Integrantes
