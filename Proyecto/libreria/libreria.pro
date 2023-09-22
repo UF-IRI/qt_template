@@ -1,5 +1,3 @@
-QT -= gui
-
 TEMPLATE = lib
 DEFINES += LIBRERIA_LIBRARY
 
