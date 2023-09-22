@@ -1,7 +1,6 @@
 TEMPLATE = app
-QT += gui
 
-CONFIG += c++11
+CONFIG += c++17
 
 isEmpty(CATCH_INCLUDE_DIR): CATCH_INCLUDE_DIR=$$(CATCH_INCLUDE_DIR)
 # set by Qt Creator wizard
